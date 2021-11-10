@@ -30,7 +30,7 @@ deploy:
 
         local: target/workflow-github-actions-1.0-SNAPSHOT.jar
 
-        remote: ajayuke/simple-java-maven-app/actions/workflow-github-actions.jar # My remote directory
+        remote: ajayuke/simple-java-maven-app/actions/my-app-SNAPSHOT.jar # My remote directory
 
         host: ${{ secrets.HOST }}
 
