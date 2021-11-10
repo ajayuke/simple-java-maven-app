@@ -20,7 +20,6 @@
   <sonar.organization>ajay123</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
-  </properties>
   <build>
     <pluginManagement>
       <plugins>
